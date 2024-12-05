@@ -1,0 +1,19 @@
+{
+  "name": "@irinaore/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IrinaOre/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaOre/ajs/issues"
+  },
+  "homepage": "https://github.com/IrinaOre/ajs#readme",
+  "description": ""
+}
